@@ -1,4 +1,6 @@
-:root {}
+:root {
+	--navbar-height: 80px;
+}
 
 body {
 	@apply bg-neutral-900 text-stone-200;
