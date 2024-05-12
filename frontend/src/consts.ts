@@ -1,4 +1,4 @@
-export const SITE_TITLE = 'Official Website Of DSMUN';
+export const SITE_TITLE = 'Official Website Of DSSC MUN';
 export const SITE_DESCRIPTION = `The Model United Nations Club of D. S. Senanayake College
 is a student-led organization that provides students with the opportunity to learn about
 global affairs and diplomacy through simulated United Nations committee meetings.`;
